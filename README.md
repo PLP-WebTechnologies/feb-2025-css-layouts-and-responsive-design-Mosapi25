@@ -10,7 +10,7 @@ Ensure proper alignment and spacing.
 
 - use Flexbox or CSS Grid.
 - Add a navigation bar and structure the content.
-- Use media queries to adjust layout for mobile, tablet, and desktop.
+- Use media queries to adjust layout for mobile, tablet, and desktop.  https://mosabelowbudget.netlify.app/ 
 
 >[!NOTE]
 >  - Include at least:
